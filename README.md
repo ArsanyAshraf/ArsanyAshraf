@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArsanyAshraf
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me email: ArsanyAshraf01@gmail.com
 
 <!---
